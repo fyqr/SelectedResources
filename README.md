@@ -8,6 +8,10 @@ GitHub上的个人工具选辑（为了记录在GitHub上看到的对自己有�
 2. [ScreenToGif]( https://www.screentogif.com/ )
 
     一个可以录制 GIF 图片的开源工具，同时还具备编辑帧、调用摄像头录制、录制画板等功能。 
+    
+3.  [彩云小译](https://github.com/ruanyf/weekly/issues/910) 
+
+     浏览器插件，一键将网页翻译成中英对照模式。 
 
 
 
