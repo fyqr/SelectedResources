@@ -27,5 +27,9 @@ GitHub上的个人工具选辑（为了记录在GitHub上看到的对自己有�
 
     老照片着色的机器学习库
 
+7. [DoubleKiller](https://doublekiller.en.softonic.com/)
+
+   一款重复文件对比工具
+
 
 
