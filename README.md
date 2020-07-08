@@ -32,6 +32,10 @@ GitHub上的个人工具选辑（为了记录在GitHub上看到的对自己有�
    [明经的手势插件](http://bbs.mjtd.com/thread-111628-1-1.html)
 
    可以用在CAD上
+   
+8. [ffmpeg GUI](https://github.com/mifi/lossless-cut)
+
+    一个开源的ffmpeg GUI
 
 
 
