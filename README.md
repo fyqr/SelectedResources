@@ -36,6 +36,14 @@ GitHub上的个人工具选辑（为了记录在GitHub上看到的对自己有�
 8. [ffmpeg GUI](https://github.com/mifi/lossless-cut)
 
     一个开源的ffmpeg GUI
+    
+9. [小悦记](https://mp.weixin.qq.com/s/hCZWQEfHrCAxTiO0h8ukJw)
+
+    
+
+    [![img](https://camo.githubusercontent.com/5ced59f2af6006897e694d5bc56dd291e7297c28/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323030342f6267323032303034323331312e6a7067)
+
+    Chrome 浏览器插件，可以一键导出微信读书笔记。（@[zxhycxq](https://github.com/ruanyf/weekly/issues/1198) 投稿）
 
 
 
