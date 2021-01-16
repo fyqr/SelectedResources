@@ -97,3 +97,11 @@ Pandoc 的作者是 [John MacFarlane](http://johnmacfarlane.net/)，他是加州
 [![img](https://camo.githubusercontent.com/e27a6ea4ccc13c9d2ea1dd1f5be5de71711efdde2e0a7ef9daaa5b272b27b312/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323031322f6267323032303132313930312e6a7067)](https://camo.githubusercontent.com/e27a6ea4ccc13c9d2ea1dd1f5be5de71711efdde2e0a7ef9daaa5b272b27b312/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323031322f6267323032303132313930312e6a7067)
 
 Cloudflare 推出的静态网站构建和托管服务，目前正在 beta 测试，可以申请参加。（[@Wazons](https://github.com/ruanyf/weekly/issues/1559) 投稿）
+
+###### 20、[地图选择器](http://datav.aliyun.com/tools/atlas/#&lat=30.332329214580188&lng=106.72278672066881&zoom=3.5)
+
+支持下载各省、市、县的svg格式的地图素材，可以导入PPT中进行编辑，能单独更改颜色和轮廓！界面简洁，完全免费
+
+###### 21、[中国历史地图集](http://www.ccamc.co/chinese_historical_map/index.php)
+
+###### 22、[标准地图服务系统](http://bzdt.ch.mnr.gov.cn/)

@@ -33,3 +33,9 @@
 ###### 7、[awesome-oss-by-country](https://github.com/slowernews/awesome-oss-by-country)
 
 这个仓库按照国别，收集每个国家 awesome（优秀的）开源项目。
+
+###### 8、[My Icon](https://myicon.io/)
+
+[![img](https://camo.githubusercontent.com/6b4c14b94270fb394d4d84eb12f64b023c8ceb9d88f2ea71a88f12324e7c9b4c/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323130312f6267323032313031303730352e6a7067)](https://camo.githubusercontent.com/6b4c14b94270fb394d4d84eb12f64b023c8ceb9d88f2ea71a88f12324e7c9b4c/68747470733a2f2f7777772e77616e67626173652e636f6d2f626c6f67696d672f61737365742f3230323130312f6267323032313031303730352e6a7067)
+
+一套免费图标，用来更换 iOS 14 的图标。一共有几千个图标可供选择，还允许自定义和编辑。
