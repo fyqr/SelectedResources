@@ -84,7 +84,7 @@ Pandoc 的作者是 [John MacFarlane](http://johnmacfarlane.net/)，他是加州
 
 ###### 16、[开源的微信公众号 Markdown 编辑器](https://github.com/doocs/md)
 
-###### 17、TinyTask
+###### 17、[TinyTask](https://tinytask.en.softonic.com/)
 
 ###### 18、[AI Picture Restorer](https://hotpot.ai/restore-picture)
 
@@ -109,3 +109,9 @@ Cloudflare 推出的静态网站构建和托管服务，目前正在 beta 测试
 ###### 23、[EPUB.to](https://epub.to/)
 
 这个网站可以将 EPUB 格式的电子书转为其他格式，也可以将其他格式转为 EPUB。
+
+###### 24、[Ojoy](https://ojoy.zaps.dev/)
+
+[![](https://camo.githubusercontent.com/8aeed4dd585752f10ef6b5eea8d0af4f1f94372a03fee28d6f4c1c6f4be6b252/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130362f6267323032313036313530312e6a7067)](https://camo.githubusercontent.com/8aeed4dd585752f10ef6b5eea8d0af4f1f94372a03fee28d6f4c1c6f4be6b252/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130362f6267323032313036313530312e6a7067)
+
+一个网页图像工具，可以放大图片的同时，还保持同样的清晰度。

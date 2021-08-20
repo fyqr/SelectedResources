@@ -87,3 +87,60 @@ Youtube 上面有很多优秀的计算机科学的免费教学视频，本文整
 [![img](https://camo.githubusercontent.com/680d06de89339a12eccc052acdabaef11dbe213683dbd3e900f4456a4896aa93/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130332f6267323032313033323230352e6a7067)](https://camo.githubusercontent.com/680d06de89339a12eccc052acdabaef11dbe213683dbd3e900f4456a4896aa93/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130332f6267323032313033323230352e6a7067)
 
 一组不错的数据结构与算法讲解视频，涉及动态数组、二叉树、图论、动画引擎等等。从国外网站搬运到 B 站，带有中文字幕。
+
+###### 17、 https://www.irasutoya.com/ 给大家推荐一套几乎可以说是日本最普及的插画： いらすとや 数量庞大，风格统一，轻松活泼，最重要的是可以免费商用。可以说是居家旅行，写文档，画 PPT 必备良药。
+
+###### 18、[学习 iOS 开发指南（2021版）](https://matteomanferdini.com/become-an-ios-developer/)
+
+这篇英语长文向初学者介绍如何学习 iOS 开发，大家关心的各种问题都能在里面找到解答，比如应该学习 Object-C 语言还是 Swift 语言。
+
+###### 19、[Skyline Webcams](https://www.skylinewebcams.com/)
+
+[![img](https://camo.githubusercontent.com/084261a4eca23b8151fefad457e0bdc8ae2c7f4157d01f876617e6ac12501a77/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130342f6267323032313034313730322e6a7067)](https://camo.githubusercontent.com/084261a4eca23b8151fefad457e0bdc8ae2c7f4157d01f876617e6ac12501a77/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130342f6267323032313034313730322e6a7067)
+
+该网站提供世界五大洲的直播摄像头，可以看到世界各个地点的实况。
+
+###### 20、[家庭花园种植指南](http://www.gardening.cornell.edu/homegardening/)
+
+[![img](https://camo.githubusercontent.com/bad34899264c4d38c75a5cd16be67b81423868939d983ca9d658c09fe9e19099/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130352f6267323032313035313830352e6a7067)](https://camo.githubusercontent.com/bad34899264c4d38c75a5cd16be67b81423868939d983ca9d658c09fe9e19099/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130352f6267323032313035313830352e6a7067)
+
+###### 21、[freesound.org](https://freesound.org/)
+
+[![img](https://camo.githubusercontent.com/277ae54aebc276148b843cef2e6b8f55ab4611e45f4fabbe7ced8f09aea5f47c/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130352f6267323032313035323430392e6a7067)](https://camo.githubusercontent.com/277ae54aebc276148b843cef2e6b8f55ab4611e45f4fabbe7ced8f09aea5f47c/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130352f6267323032313035323430392e6a7067)
+
+该网站是一个社区，全世界志愿者上传自己收集的环境音，目前已经有50万种环境音。中国的环境音也有不少，比如[北京的公交车](https://freesound.org/people/nslkc/sounds/100206/)、[火车通过铁路道口](https://freesound.org/people/RTB45/sounds/151807/)。
+
+###### 22、中华石刻数据库
+http://inscription.ancientbooks.cn/docShike/
+
+
+
+###### 23、[太空旅游海报](https://www.jpl.nasa.gov/galleries/visions-of-the-future)
+
+[![](https://camo.githubusercontent.com/65d51d6b2e36f8b9ef5873a7bcb4cf07375c3cac28f3c080263d0978ee338e3b/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130372f6267323032313037303130322e6a7067)](https://camo.githubusercontent.com/65d51d6b2e36f8b9ef5873a7bcb4cf07375c3cac28f3c080263d0978ee338e3b/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130372f6267323032313037303130322e6a7067)
+
+美国宇航局的喷气推进实验室 JPL 聘请艺术家，创作了14幅太空旅游的海报，具有复古科幻风格，专门供爱好者下载打印，挂在墙上。
+
+###### 24、[编程音乐](https://www.musicforprogramming.net/)
+
+这个网站提供几十组精心选择的编程背景音乐。
+
+
+
+###### 25、[织信](https://www.informat.cn/)
+
+[![](https://camo.githubusercontent.com/3039309c0508336a058e816f5c5d3b065aa4f07fd926fe3ba5669a6134c95ea6/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130372f6267323032313037323731312e6a7067)](https://camo.githubusercontent.com/3039309c0508336a058e816f5c5d3b065aa4f07fd926fe3ba5669a6134c95ea6/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130372f6267323032313037323731312e6a7067)
+
+一个面向企业用户的低代码平台，帮助企业不用写代码，就能搭建管理系统、业务平台、企业官网等，有免费使用的版本。（[@hopper20](https://github.com/ruanyf/weekly/issues/1866) 投稿）
+
+###### 26、[Pitch Deck Hunt](https://www.pitchdeckhunt.com/)
+
+[![](https://camo.githubusercontent.com/f7673e8190531206c5c486d0bcb5c7d0b52f76e3470c87c3d6e7db508b731d5b/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130372f6267323032313037313030322e6a7067)](https://camo.githubusercontent.com/f7673e8190531206c5c486d0bcb5c7d0b52f76e3470c87c3d6e7db508b731d5b/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130372f6267323032313037313030322e6a7067)
+
+创业公司向投资者和用户介绍自己的 PPT，叫做 Pitch Deck。该网站收集了150多家著名公司早期的 Pitch Deck，可以用来当作模板
+
+###### 27、[内燃机原理](https://ciechanow.ski/internal-combustion-engine/)（英文）
+
+[![](https://camo.githubusercontent.com/2f39364f23431ddf86f62e91019c5805a098a57f3fab88981bb0522664471d1f/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130382f6267323032313038303130322e6a7067)](https://camo.githubusercontent.com/2f39364f23431ddf86f62e91019c5805a098a57f3fab88981bb0522664471d1f/68747470733a2f2f63646e2e6265656b6b612e636f6d2f626c6f67696d672f61737365742f3230323130382f6267323032313038303130322e6a7067)
+
+一篇令人叹为观止的文章，使用大量互动式的动画，讲解内燃机（也就是汽车发动机）是运作过程。
